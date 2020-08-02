@@ -8,4 +8,4 @@ You can view the result in [here](https://chlorella.github.io/hkbu-jour-2106-hom
 - [Homework 4](https://github.com/chlorella/hkbu-jour-2106-homework4)
 - [Homework 5](https://github.com/chlorella/hkbu-jour-2106-homework5)
 - [Homework 6](https://github.com/chlorella/hkbu-jour-2106-homework6)
-- [Group Project(forked)](https://github.com/chlorella/glotravel)
+- [Group Project(forked)](https://github.com/chlorella/hkbu-jour2106-glotravel)
